@@ -44,15 +44,15 @@ When a serious issue involves an outside company (perhaps abusing a project's br
 
 -  Issues of Incubator podling behavior, project governance, podlings not following Apache policies, and the like should go to the Apache Incubator general@ or private@ mailing list, and cc: the relevant private@podling list.
 
--  Issues with Apache Infra should first be escalated to the [Infra Administrator](https://whimsy.apache.org/roster/orgchart/infra-admin) directly.  If that is not sufficient, only then escalate to [VP, Infrastructure](https://whimsy.apache.org/roster/orgchart/vp-infra).
+-  Issues with Apache Infra should first be escalated to the [Infra Administrator](https://whimsy.apache.org/foundation/orgchart/infra-admin) directly.  If that is not sufficient, only then escalate to [VP, Infrastructure](https://whimsy.apache.org/foundation/orgchart/vp-infra).
 
 -  Any **brand or trademark issues** go to the [Brand Management Committee](/foundation/marks/contact) on private lists and cc: the relevant private@ list.
 
--  Any issues of **law or from lawyers** go to the [Legal Affairs Committee](https://whimsy.apache.org/roster/orgchart/vp-legal) (on a private list if needed!)
+-  Any issues of **law or from lawyers** go to the [Legal Affairs Committee](https://whimsy.apache.org/foundation/orgchart/vp-legal) (on a private list if needed!)
 
--  Formal privacy, GDPR, or takedown requests go to the VP, Data Privacy.
+-  Formal [privacy, GDPR, or takedown requests](https://privacy.apache.org/policies/privacy-policy-public.html) go to the VP, Data Privacy.
 
--  Operations issues (fundraising, conferences, etc.) should go to the [President](https://whimsy.apache.org/roster/orgchart/president) and EVP; the [Org Chart](https://whimsy.apache.org/roster/orgchart/) is helpful to see who reports to the President or the Board directly.
+-  Operations issues (fundraising, conferences, etc.) should go to the [President](https://whimsy.apache.org/foundation/orgchart/president) and EVP; the [Org Chart](https://whimsy.apache.org/foundation/orgchart/) is helpful to see who reports to the President or the Board directly.
 
 For more pointers, see the [Services Available To Apache Projects listing](/board/services).  Note that the private members@ mailing list is never the right place to escalate project issues.
 
@@ -63,9 +63,9 @@ There are a few rare cases that may be exceptions to the above guide, depending 
 
 *  Any potentially **disclosed security issue** that is not being addressed: escalating _immediately_ to ensure that the [Security Team is aware of the issue](/security/) is OK if other avenues are not working.
 
--  Any **credible threats to personal safety** should be escalated immediately to local law enforcement or emergency personnel.  If you are at an ApacheCon or other ASF hosted event, contact the conference organizers or Planning committee as soon as practical by asking any event staff; elsewhere, please contact the ASF's President at president@apache.org.
+-  Any **credible threats to personal safety** should be escalated immediately to local law enforcement or emergency personnel.  If you are at a Community Over Code or other ASF hosted event, contact the conference organizers or Planning committee as soon as practical by asking any event staff; elsewhere, please contact the ASF's President at president@apache.org.
 
--  Any **legal summons or demands** from legal counsel should be escalated immediately to the [Legal Affairs Committee](https://whimsy.apache.org/roster/orgchart/vp-legal), so that the ASF's counsel can review for action.
+-  Any **legal summons or demands** from legal counsel should be escalated immediately to the [Legal Affairs Committee](https://whimsy.apache.org/foundation/orgchart/vp-legal), so that the ASF's counsel can review for action.
 
 -  Serious **code of conduct** violations where you are not comfortable working with the person in question directly may be escalated to the [President or reporting volunteers](/foundation/policies/conduct.html) directly.
 
